@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cards/static/css/main.4e5f49f2.chunk.css",
+    "main.css": "/cards/static/css/main.84561775.chunk.css",
     "main.js": "/cards/static/js/main.63631178.chunk.js",
     "main.js.map": "/cards/static/js/main.63631178.chunk.js.map",
     "runtime-main.js": "/cards/static/js/runtime-main.3640371d.js",
@@ -8,9 +8,9 @@
     "static/js/2.08d9dad4.chunk.js": "/cards/static/js/2.08d9dad4.chunk.js",
     "static/js/2.08d9dad4.chunk.js.map": "/cards/static/js/2.08d9dad4.chunk.js.map",
     "index.html": "/cards/index.html",
-    "precache-manifest.3cfe7afe79da7d43e54d6c51ddbab801.js": "/cards/precache-manifest.3cfe7afe79da7d43e54d6c51ddbab801.js",
+    "precache-manifest.48e398428cf0191a9c1255bc8cca459d.js": "/cards/precache-manifest.48e398428cf0191a9c1255bc8cca459d.js",
     "service-worker.js": "/cards/service-worker.js",
-    "static/css/main.4e5f49f2.chunk.css.map": "/cards/static/css/main.4e5f49f2.chunk.css.map",
+    "static/css/main.84561775.chunk.css.map": "/cards/static/css/main.84561775.chunk.css.map",
     "static/js/2.08d9dad4.chunk.js.LICENSE.txt": "/cards/static/js/2.08d9dad4.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/cards/static/media/inconsolata-variablefont_wdthwght-webfont.a0eab9ad.woff",
     "static/media/logo.svg": "/cards/static/media/logo.5d5d9eef.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.3640371d.js",
     "static/js/2.08d9dad4.chunk.js",
-    "static/css/main.4e5f49f2.chunk.css",
+    "static/css/main.84561775.chunk.css",
     "static/js/main.63631178.chunk.js"
   ]
 }
