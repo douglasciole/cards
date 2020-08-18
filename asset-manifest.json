@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/cards/static/css/main.0ccc387f.chunk.css",
-    "main.js": "/cards/static/js/main.6a839219.chunk.js",
-    "main.js.map": "/cards/static/js/main.6a839219.chunk.js.map",
+    "main.css": "/cards/static/css/main.4e2e9966.chunk.css",
+    "main.js": "/cards/static/js/main.69c8074e.chunk.js",
+    "main.js.map": "/cards/static/js/main.69c8074e.chunk.js.map",
     "runtime-main.js": "/cards/static/js/runtime-main.3640371d.js",
     "runtime-main.js.map": "/cards/static/js/runtime-main.3640371d.js.map",
-    "static/js/2.f66e43f9.chunk.js": "/cards/static/js/2.f66e43f9.chunk.js",
-    "static/js/2.f66e43f9.chunk.js.map": "/cards/static/js/2.f66e43f9.chunk.js.map",
+    "static/js/2.b45f5558.chunk.js": "/cards/static/js/2.b45f5558.chunk.js",
+    "static/js/2.b45f5558.chunk.js.map": "/cards/static/js/2.b45f5558.chunk.js.map",
     "index.html": "/cards/index.html",
-    "precache-manifest.1be649e5d5383f5b7da7e70b93ecda31.js": "/cards/precache-manifest.1be649e5d5383f5b7da7e70b93ecda31.js",
+    "precache-manifest.4229955293b52dc26b281770c0086f00.js": "/cards/precache-manifest.4229955293b52dc26b281770c0086f00.js",
     "service-worker.js": "/cards/service-worker.js",
-    "static/css/main.0ccc387f.chunk.css.map": "/cards/static/css/main.0ccc387f.chunk.css.map",
-    "static/js/2.f66e43f9.chunk.js.LICENSE.txt": "/cards/static/js/2.f66e43f9.chunk.js.LICENSE.txt",
+    "static/css/main.4e2e9966.chunk.css.map": "/cards/static/css/main.4e2e9966.chunk.css.map",
+    "static/js/2.b45f5558.chunk.js.LICENSE.txt": "/cards/static/js/2.b45f5558.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/cards/static/media/inconsolata-variablefont_wdthwght-webfont.a0eab9ad.woff",
-    "static/media/index.css": "/cards/static/media/pattern.6edef9b3.webp"
+    "static/media/mday.jpg": "/cards/static/media/mday.ce2c09c5.jpg",
+    "static/media/index.css": "/cards/static/media/pattern.6edef9b3.webp",
+    "static/media/sp.jpg": "/cards/static/media/sp.b9c9d2fa.jpg",
+    "static/media/xmas.png": "/cards/static/media/xmas.adb62aff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3640371d.js",
-    "static/js/2.f66e43f9.chunk.js",
-    "static/css/main.0ccc387f.chunk.css",
-    "static/js/main.6a839219.chunk.js"
+    "static/js/2.b45f5558.chunk.js",
+    "static/css/main.4e2e9966.chunk.css",
+    "static/js/main.69c8074e.chunk.js"
   ]
 }
