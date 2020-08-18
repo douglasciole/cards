@@ -10,8 +10,8 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route path={process.env.PUBLIC_URL + '/display'} component={CardDisplay} />
-          <Route exact path={process.env.PUBLIC_URL + '/'} component={CardList} />
+          <Route path={'/display'} component={CardDisplay} />
+          <Route exact path={'/'} component={CardList} />
         </Switch>
       </Router>
     </div>

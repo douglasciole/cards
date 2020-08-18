@@ -105,3 +105,26 @@ body::-webkit-scrollbar-thumb {
   border-bottom: 0px;
   transform: translateY(4px);
 }
+
+.messageContainer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.messageContainer img {
+  border-radius: 8px;
+}
+
+.message {
+  display: flex;
+  width: 100%;
+  justify-content: baseline;
+  max-width: 400px;
+  font-size: 2rem;
+  font-family: inconsolataregular;
+  color: var(--primary);
+  font-weight: bold;
+  text-shadow: 2px 2px var(--secondary);
+  margin-left: 2rem;
+}

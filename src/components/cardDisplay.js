@@ -34,6 +34,14 @@ export default class cardDisplay extends Component {
                     <meta property="og:description" content={cardsData[this.state.query.refer].message} />
                     <meta property="og:image" content={"https://douglasciole.github.io" + cardsData[this.state.query.refer].image} />
                 </MetaTags>
+
+                <div className="title">{cardsData[this.state.query.refer].title}</div>
+                <div className="messageContainer">
+                    <img width="500px" src={cardsData[this.state.query.refer].image} />
+                    <p className="message">
+                        {cardsData[this.state.query.refer].message}
+                    </p>
+                </div>
             </div>
         )
     }
