@@ -1,27 +1,19 @@
 import React, { Component } from 'react'
 import Card from './card'
+import cardsData from '../data';
 
-export default class cardList extends Component {
+export default class CardList extends Component {
     render() {
         return (
             <div>
                 <div className="title">Cards</div>
-                <div className="cards-container">
-                    <Card refer="sp" label="Saint Patrick's" image="/images/sp.jpg" />
-                    <Card refer="xmas" label="Christmas" image="/images/xmas.png" />
-                    <Card refer="mday" label="Mother's Day" image="/images/mday.jpg" />
-                </div>
+                
+                
 
                 <div className="cards-container">
-                    <Card refer="sp" label="Saint Patrick's" image="/images/sp.jpg" />
-                    <Card refer="xmas" label="Christmas" image="/images/xmas.png" />
-                    <Card refer="mday" label="Mother's Day" image="/images/mday.jpg" />
-                </div>
-
-                <div className="cards-container">
-                    <Card refer="sp" label="Saint Patrick's" image="/images/sp.jpg" />
-                    <Card refer="xmas" label="Christmas" image="/images/xmas.png" />
-                    <Card refer="mday" label="Mother's Day" image="/images/mday.jpg" />
+                    
+                    {Object.keys(cardsData).map((key, index) => <Card refer={key} label={cardsData[key].title} image={cardsData[key].image} />)}
+                    
                 </div>
             </div>
         )

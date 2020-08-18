@@ -41,7 +41,7 @@ export default class card extends Component {
             <div className="card">
                 <div className="card-title">{this.props.label}</div>
                 <img className="card-image" src={this.props.image} />
-                <button onClick={() => { textToClipboard(this.props.refer); }} className="card-button">{this.state.buttonText}</button>
+                <button onClick={() => { textToClipboard(window.location.href + "display?refer=" + this.props.refer); }} className="card-button">{this.state.buttonText}</button>
             </div>
         )
     }
